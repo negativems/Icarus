@@ -1,0 +1,18 @@
+auto-respawn: false
+chat-tag-sound: false
+spawn:
+  teleport-on-join: false
+  world: world
+  x: 0
+  y: 100
+  z: 0
+  yaw: 180
+  pitch: 0
+mongodb:
+  host: localhost
+  port: 27017
+  database: Icarus
+  authentication:
+    enabled: false
+    username: icarus
+    password: password

@@ -1,0 +1,17 @@
+spawn:
+  world: spawn
+  first-location:
+    x: -100
+    y: 0
+    z: -100
+  second-location:
+    x: 100
+    y: 0
+    z: 100
+  flags:
+    pvp: false
+    hit-animals: false
+    hit-monsters: false
+    get-damage: false
+    enderpearl: false
+    interact: false

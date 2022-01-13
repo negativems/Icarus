@@ -1,0 +1,7 @@
+name: Icarus
+main: net.zargum.plugin.icarus.Icarus
+author: negativems
+version: 1.2-SNAPTSHOT
+depend:
+  - zLib
+  - WorldEdit
